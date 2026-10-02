@@ -1,3 +1,5 @@
+**Live demo:** https://portfolio-dashboard-nu-one.vercel.app/
+
 # Portfolio Dashboard
 
 Dashboard for my stock portfolio, made with Next.js, TypeScript and Tailwind. It shows live price (CMP) from Yahoo Finance and P/E + EPS from Google Finance. This is my solution for the Octa Byte case study.
