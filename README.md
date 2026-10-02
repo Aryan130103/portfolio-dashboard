@@ -4,6 +4,8 @@
 
 Dashboard for my stock portfolio, made with Next.js, TypeScript and Tailwind. It shows live price (CMP) from Yahoo Finance and P/E + EPS from Google Finance. This is my solution for the Octa Byte case study.
 
+**Project Walkthrough:** https://www.loom.com/share/9d43e10d8eb54fc0a27c3ced21d26ac1
+
 ## What it does
 - shows all stocks in a table (react-table), grouped by sector
 - each sector has its own total investment, present value and gain/loss
