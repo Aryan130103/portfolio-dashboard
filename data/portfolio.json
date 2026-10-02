@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "HDFC Bank",
+    "sector": "Financials",
+    "purchasePrice": 1490,
+    "qty": 50,
+    "exchange": "NSE",
+    "code": "HDFCBANK"
+  },
+  {
+    "id": 2,
+    "name": "Bajaj Finance",
+    "sector": "Financials",
+    "purchasePrice": 6466,
+    "qty": 15,
+    "exchange": "NSE",
+    "code": "BAJFINANCE"
+  },
+  {
+    "id": 3,
+    "name": "ICICI Bank",
+    "sector": "Financials",
+    "purchasePrice": 780,
+    "qty": 84,
+    "exchange": "BSE",
+    "code": "532174",
+    "yahoo": "ICICIBANK.NS"
+  },
+  {
+    "id": 4,
+    "name": "Bajaj Housing",
+    "sector": "Financials",
+    "purchasePrice": 130,
+    "qty": 504,
+    "exchange": "BSE",
+    "code": "544252",
+    "yahoo": "BAJAJHFL.NS"
+  },
+  {
+    "id": 5,
+    "name": "Savani Financials",
+    "sector": "Financials",
+    "purchasePrice": 24,
+    "qty": 1080,
+    "exchange": "BSE",
+    "code": "511577"
+  },
+  {
+    "id": 6,
+    "name": "Affle India",
+    "sector": "Technology",
+    "purchasePrice": 1151,
+    "qty": 50,
+    "exchange": "NSE",
+    "code": "AFFLE"
+  },
+  {
+    "id": 7,
+    "name": "LTI Mindtree",
+    "sector": "Technology",
+    "purchasePrice": 4775,
+    "qty": 16,
+    "exchange": "NSE",
+    "code": "LTM"
+  },
+  {
+    "id": 8,
+    "name": "KPIT Tech",
+    "sector": "Technology",
+    "purchasePrice": 672,
+    "qty": 61,
+    "exchange": "BSE",
+    "code": "542651",
+    "yahoo": "KPITTECH.NS"
+  },
+  {
+    "id": 9,
+    "name": "Tata Tech",
+    "sector": "Technology",
+    "purchasePrice": 1072,
+    "qty": 63,
+    "exchange": "BSE",
+    "code": "544028",
+    "yahoo": "TATATECH.NS"
+  },
+  {
+    "id": 10,
+    "name": "BLS E-Services",
+    "sector": "Technology",
+    "purchasePrice": 232,
+    "qty": 191,
+    "exchange": "BSE",
+    "code": "544107",
+    "yahoo": "BLSE.NS"
+  },
+  {
+    "id": 11,
+    "name": "Tanla",
+    "sector": "Technology",
+    "purchasePrice": 1134,
+    "qty": 45,
+    "exchange": "BSE",
+    "code": "532790",
+    "yahoo": "TANLA.NS"
+  },
+  {
+    "id": 12,
+    "name": "Dmart",
+    "sector": "Consumer",
+    "purchasePrice": 3777,
+    "qty": 27,
+    "exchange": "NSE",
+    "code": "DMART"
+  },
+  {
+    "id": 13,
+    "name": "Tata Consumer",
+    "sector": "Consumer",
+    "purchasePrice": 845,
+    "qty": 90,
+    "exchange": "BSE",
+    "code": "500800",
+    "yahoo": "TATACONSUM.NS"
+  },
+  {
+    "id": 14,
+    "name": "Pidilite",
+    "sector": "Consumer",
+    "purchasePrice": 2376,
+    "qty": 36,
+    "exchange": "BSE",
+    "code": "500331",
+    "yahoo": "PIDILITIND.NS"
+  },
+  {
+    "id": 15,
+    "name": "Tata Power",
+    "sector": "Power",
+    "purchasePrice": 224,
+    "qty": 225,
+    "exchange": "BSE",
+    "code": "500400",
+    "yahoo": "TATAPOWER.NS"
+  },
+  {
+    "id": 16,
+    "name": "KPI Green",
+    "sector": "Power",
+    "purchasePrice": 875,
+    "qty": 50,
+    "exchange": "BSE",
+    "code": "542323",
+    "yahoo": "KPIGREEN.NS"
+  },
+  {
+    "id": 17,
+    "name": "Suzlon",
+    "sector": "Power",
+    "purchasePrice": 44,
+    "qty": 450,
+    "exchange": "BSE",
+    "code": "532667",
+    "yahoo": "SUZLON.NS"
+  },
+  {
+    "id": 18,
+    "name": "Gensol",
+    "sector": "Power",
+    "purchasePrice": 998,
+    "qty": 45,
+    "exchange": "BSE",
+    "code": "542851",
+    "yahoo": "GENSOL.NS"
+  },
+  {
+    "id": 19,
+    "name": "Hariom Pipes",
+    "sector": "Pipes",
+    "purchasePrice": 580,
+    "qty": 60,
+    "exchange": "BSE",
+    "code": "543517",
+    "yahoo": "HARIOMPIPE.NS"
+  },
+  {
+    "id": 20,
+    "name": "Astral",
+    "sector": "Pipes",
+    "purchasePrice": 1517,
+    "qty": 56,
+    "exchange": "NSE",
+    "code": "ASTRAL"
+  },
+  {
+    "id": 21,
+    "name": "Polycab",
+    "sector": "Pipes",
+    "purchasePrice": 2818,
+    "qty": 28,
+    "exchange": "BSE",
+    "code": "542652",
+    "yahoo": "POLYCAB.NS"
+  },
+  {
+    "id": 22,
+    "name": "Clean Science",
+    "sector": "Others",
+    "purchasePrice": 1610,
+    "qty": 32,
+    "exchange": "BSE",
+    "code": "543318",
+    "yahoo": "CLEAN.NS"
+  },
+  {
+    "id": 23,
+    "name": "Deepak Nitrite",
+    "sector": "Others",
+    "purchasePrice": 2248,
+    "qty": 27,
+    "exchange": "BSE",
+    "code": "506401",
+    "yahoo": "DEEPAKNTR.NS"
+  },
+  {
+    "id": 24,
+    "name": "Fine Organic",
+    "sector": "Others",
+    "purchasePrice": 4284,
+    "qty": 16,
+    "exchange": "BSE",
+    "code": "541557",
+    "yahoo": "FINEORG.NS"
+  },
+  {
+    "id": 25,
+    "name": "Gravita",
+    "sector": "Others",
+    "purchasePrice": 2037,
+    "qty": 8,
+    "exchange": "BSE",
+    "code": "533282",
+    "yahoo": "GRAVITA.NS"
+  },
+  {
+    "id": 26,
+    "name": "SBI Life",
+    "sector": "Others",
+    "purchasePrice": 1197,
+    "qty": 49,
+    "exchange": "BSE",
+    "code": "540719",
+    "yahoo": "SBILIFE.NS"
+  }
+]
